@@ -1,9 +1,4 @@
-
-</head>
-<body>
-
-<div class="cardinal">
-  <img src="https://i.pinimg.com/736x/e2/a8/00/e2a8006cdf31b9fd5d41fee67cdfbc80.jpg" alt="John" style="width:100%">
+="https://i.pinimg.com/736x/e2/a8/00/e2a8006cdf31b9fd5d41fee67cdfbc80.jpg" alt="John" style="width:100%">
    <FONT COLOR="black"><h1>Casango</h1></FONT>
   <p class="titlePro">Programador</p>
   <p class="titlePro">Ing. Manufactura Aeronautica</p>
@@ -13,6 +8,11 @@
 
 </body>
 </html>
+</head>
+<body>
+
+<div class="cardinal">
+  <img src
 
 
 
@@ -69,7 +69,7 @@ button:hover, a:hover {
 </style>
 </head>
 <body>
-
+ 
 <div class="cardinal">
   <img src="https://i.pinimg.com/736x/39/dc/c8/39dcc85b4e5dbbb187c715e9fbe8dfb9.jpg" alt="John" style="width:100%">
    <FONT COLOR="black"><h1>Jesus</h1></FONT>
